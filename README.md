@@ -1,5 +1,4 @@
 # Deep-Q-Network-to-play-2048-Game
-Different versions of DQN agents to train to learn 2048 game
 
 This repo contains different versions of DQN agents that can be trained to play 2048 game. Below are some details for different versions.
 
